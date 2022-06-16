@@ -1,0 +1,14 @@
+.logo-container{
+   
+    position: absolute;
+    top: 150px;
+    opacity: 1;
+    right: 15%;
+    bottom: 0;
+    left: auto;
+    margin: auto;
+
+    animation:bounce 2s 1.5s;
+    animation-fill-mode: forwards;
+    
+}
