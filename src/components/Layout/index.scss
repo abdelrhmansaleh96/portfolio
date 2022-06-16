@@ -32,11 +32,14 @@
     transform-style: preserve-3d;
     animation: fadeIn 1s forwards;
     animation-delay:1s ;
+    overflow: scroll;
+   
 }
 
 .about-page,
 .contact-page,
 .portfolio-page{
+    
     
         h1{
             font-size: 53px;
@@ -104,3 +107,4 @@
 }
 
 }
+

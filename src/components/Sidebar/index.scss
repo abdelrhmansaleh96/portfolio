@@ -19,6 +19,9 @@
         &.sub-logo {
           width: 50px;
         }
+        @media (max-width:635px) {
+          width: 45px;
+        }
       }
     }
   
@@ -125,5 +128,8 @@
           }
         }
       }
+    }
+    @media (max-width:635px) {
+      width: 45px;
     }
   }
