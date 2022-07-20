@@ -24,6 +24,17 @@
                  "title":"Portfolio",
                  "description":"Welcome to my Portfolio",
                  "url":"https://facedetect-api-react.netlify.app"
+            },{
+                "cover":"/portfolio/1/five.png",
+                 "title":"Rock Paper Scissors",
+                 "description":"Play a little bit",
+                 "url":"https://rock-paper-scissors-reactwebpage.netlify.app/"
+            }
+            ,{
+                "cover":"/portfolio/1/six.png",
+                 "title":"IP Tracker",
+                 "description":"Put your IP and See your location",
+                 "url":"https://ip-address-tracker-asbd.netlify.app/"
             }
         ]
     
