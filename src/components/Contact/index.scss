@@ -108,3 +108,15 @@
     animation: backInRight 1s 1.2s ;
     animation-fill-mode: forwards;
 }
+
+@media (max-width:1050px) {
+    .info-map{
+        display: none;
+    }
+}
+
+@media (max-width:555px) {
+    .contact-page{
+        margin-left: 10px;
+    }
+}

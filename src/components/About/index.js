@@ -24,6 +24,7 @@ const About = () => {
   return (
     <>
       <div className="container about-page">
+        
         <div className="text-zone">
           <h1>
             <AnimatedLetters
@@ -68,7 +69,8 @@ const About = () => {
               <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
             </div>
           </div>
-        </div>
+          
+          </div>
       </div>
       <Loader type="pacman" />
     </>

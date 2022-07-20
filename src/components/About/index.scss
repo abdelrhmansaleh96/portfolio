@@ -1,3 +1,14 @@
+.about-page{
+    
+    margin-left: 25px;
+}
+@media (max-width:575px) {
+.stage-cube-cont{
+    display: none;
+}
+
+}
+
 .stage-cube-cont{
     width: 50%;
     height: 100%;
